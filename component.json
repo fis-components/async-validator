@@ -1,0 +1,10 @@
+{
+    "name": "async-validator",
+    "description": "validate form asynchronous",
+    "repos": "https://github.com/yiminghe/async-validator.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.5.0",
+    "dependencies": {}
+}
